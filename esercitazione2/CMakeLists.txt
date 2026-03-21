@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE CXX FLAGS "${CMAKE CXX FLAGS} -Wall -Wshadow -Werror=vla")
 
 add_executable(stampa_indirizzi stampa_indirizzi.cpp)
-add_executable(primi_alg pr_alg.cpp)
+add_executable(es2 es2.cpp)
